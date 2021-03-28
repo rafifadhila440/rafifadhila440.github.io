@@ -1,0 +1,52 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #58d68d;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Github */
+.fa-github {
+  background: #000000;
+  color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+  background: #000000;
+  color: white;
+}
+
+/* Linkedin */
+.fa-linkedin {
+  background: #000000;
+  color: white;
+}
+
+/* Mail */
+.fa-google {
+  background: #000000;
+  color: white;
+}
+
+#projects {
+  background-color: #58d68d;
+}
